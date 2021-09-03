@@ -1,2 +1,2 @@
-# slovenska-omrezja
-The repository for my undergraduate thesis project.
+# A collection of Slovenian networks
+This repository contains graphs that represent Slovenian networks. It was created as part of my undergraduate thesis project.
