@@ -1,0 +1,170 @@
+*Vertices 63
+1 "Slovenija"
+2 "Afganistan"
+3 "Albanija"
+4 "Alžirija"
+5 "Avstrija"
+6 "Azerbajdžan"
+7 "Belgija"
+8 "Belorusija"
+9 "Bolgarija"
+10 "Bosna in Hercegovina"
+11 "Ciper"
+12 "Čad"
+13 "Češka Republika"
+14 "Črna gora"
+15 "Danska"
+16 "Egipt"
+17 "Estonija"
+18 "Finska"
+19 "Francija"
+20 "Grčija"
+21 "Gruzija"
+22 "Hrvaška"
+23 "Iran (Islamska republika)"
+24 "Irska"
+25 "Islandija"
+26 "Italija"
+27 "Izrael"
+28 "Japonska"
+29 "Katar"
+30 "Kazahstan"
+31 "Kirgizistan"
+32 "Kitajska (Ljudska republika)"
+33 "Kosovo"
+34 "Kuvajt"
+35 "Latvija"
+36 "Libijska Arabska Džamahirija"
+37 "Litva"
+38 "Madžarska"
+39 "Republika Severna Makedonija"
+40 "Malta"
+41 "Maroko"
+42 "Nemčija"
+43 "Nizozemska"
+44 "Norveška"
+45 "Oman"
+46 "Poljska"
+47 "Portugalska"
+48 "Romunija"
+49 "Ruska federacija"
+50 "Slovaška"
+51 "Somalija"
+52 "Srbija"
+53 "Srbija in Črna Gora"
+54 "Sudan"
+55 "Španija"
+56 "Švedska"
+57 "Švica"
+58 "Tunizija"
+59 "Turčija"
+60 "Ukrajina"
+61 "Združene države"
+62 "Združeni arabski emirati"
+63 "Združeno kraljestvo"
+*Edges
+1 2 66
+3 1 426
+1 3 1183
+1 4 23
+5 1 15922
+1 5 13395
+1 6 580
+7 1 14015
+1 7 1953
+1 8 13
+9 1 340
+1 9 1346
+10 1 1305
+1 10 2129
+11 1 4
+12 1 66
+13 1 945
+1 13 432
+14 1 98
+1 14 715
+15 1 27
+1 15 26
+16 1 45
+1 16 190
+1 17 1
+18 1 535
+1 18 437
+19 1 1184
+1 19 1474
+20 1 22
+1 20 140
+21 1 24
+22 1 136
+1 22 2636
+1 23 170
+24 1 1
+1 24 142
+1 25 183
+26 1 3213
+1 26 6889
+27 1 33
+1 27 19
+28 1 1
+1 28 14
+1 29 1
+30 1 12
+1 30 70
+1 31 20
+32 1 390
+33 1 72
+1 33 419
+1 34 1
+35 1 17
+1 35 25
+36 1 2
+1 36 141
+37 1 66
+38 1 92
+1 38 25
+39 1 556
+1 39 1760
+40 1 32
+1 40 34
+41 1 1
+1 41 10
+42 1 36691
+1 42 14617
+43 1 435
+1 43 142
+44 1 1
+1 44 6
+1 45 2
+46 1 393
+1 46 263
+47 1 6
+48 1 365
+1 48 1000
+49 1 296
+1 49 472
+1 50 2
+1 1 50
+1 1 2
+1 51 10
+52 1 1544
+1 52 7533
+53 1 179
+1 53 978
+1 54 80
+55 1 124
+1 55 15
+56 1 4
+1 56 29
+57 1 1470
+1 57 1734
+1 58 3
+59 1 5094
+1 59 4163
+60 1 21
+1 60 66
+61 1 26
+1 61 17
+62 1 734
+1 62 189
+63 1 660
+1 63 322

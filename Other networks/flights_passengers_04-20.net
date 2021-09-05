@@ -1,0 +1,206 @@
+*Vertices 71
+1 "Slovenija"
+2 "Afganistan"
+3 "Albanija"
+4 "Alžirija"
+5 "Armenija"
+6 "Avstrija"
+7 "Azerbajdžan"
+8 "Belgija"
+9 "Belorusija"
+10 "Bolgarija"
+11 "Bosna in Hercegovina"
+12 "Ciper"
+13 "Čad"
+14 "Češka Republika"
+15 "Črna gora"
+16 "Danska"
+17 "Egipt"
+18 "Estonija"
+19 "Finska"
+20 "Francija"
+21 "Gibraltar"
+22 "Grčija"
+23 "Gruzija"
+24 "Hrvaška"
+25 "Iran (Islamska republika)"
+26 "Irska"
+27 "Islandija"
+28 "Italija"
+29 "Izrael"
+30 "Japonska"
+31 "Jordanija"
+32 "Južna Afrika"
+33 "Kanada"
+34 "Katar"
+35 "Kazahstan"
+36 "Kitajska (Ljudska republika)"
+37 "Kosovo"
+38 "Kuvajt"
+39 "Latvija"
+40 "Libanon"
+41 "Libijska Arabska Džamahirija"
+42 "Litva"
+43 "Luksemburg"
+44 "Madžarska"
+45 "Republika Severna Makedonija"
+46 "Malta"
+47 "Maroko"
+48 "Moldavija (Republika)"
+49 "Nemčija"
+50 "Nizozemska"
+51 "Norveška"
+52 "Oman"
+53 "Poljska"
+54 "Portugalska"
+55 "Romunija"
+56 "Ruska federacija"
+57 "Saudova Arabija"
+58 "Sirska Arabska Republika"
+59 "Slovaška"
+60 "Srbija"
+61 "Srbija in Črna Gora"
+62 "Španija"
+63 "Švedska"
+64 "Švica"
+65 "Tunizija"
+66 "Turčija"
+67 "Turkmenistan"
+68 "Ukrajina"
+69 "Uzbekistan"
+70 "Združene države"
+71 "Združeno kraljestvo"
+*Edges
+2 1 55
+3 1 281986
+1 3 285205
+4 1 79
+1 4 81
+5 1 253
+1 5 188
+6 1 494205
+1 6 526641
+7 1 425
+1 7 478
+8 1 635696
+1 8 641518
+9 1 886
+1 9 877
+10 1 44516
+1 10 44037
+11 1 179526
+1 11 173513
+12 1 37173
+1 12 13255
+13 1 12
+14 1 170742
+1 14 166734
+15 1 211180
+1 15 200264
+16 1 165085
+1 16 163981
+17 1 198082
+1 17 198563
+18 1 1390
+1 18 1085
+19 1 195483
+1 19 171133
+20 1 811855
+1 20 790839
+21 1 3
+1 21 3
+22 1 542102
+1 22 545554
+23 1 275
+1 23 427
+24 1 25667
+1 24 32072
+1 25 63
+26 1 14212
+1 26 13852
+27 1 13309
+1 27 13388
+28 1 22898
+1 28 22845
+29 1 171847
+1 29 171223
+30 1 7258
+1 30 4642
+31 1 9409
+1 31 9264
+32 1 680
+1 32 671
+1 33 6
+1 34 161
+35 1 90
+1 36 40
+37 1 87646
+1 37 84837
+38 1 1993
+1 38 1615
+39 1 531
+1 39 639
+40 1 140
+41 1 179
+1 41 222
+42 1 1498
+1 42 1719
+43 1 577
+1 43 746
+44 1 52344
+1 44 53558
+45 1 418029
+1 45 408455
+46 1 39231
+1 46 40236
+47 1 4119
+1 47 4641
+48 1 471
+1 48 437
+49 1 1770804
+1 49 1787395
+50 1 287499
+1 50 292932
+51 1 8858
+1 51 8793
+1 52 87
+53 1 137802
+1 53 140746
+54 1 1258
+1 54 1310
+55 1 13674
+1 55 13145
+56 1 389562
+1 56 387701
+57 1 194
+1 57 169
+58 1 107
+1 58 19
+59 1 681
+1 59 1114
+1 1 339
+1 1 540
+60 1 544594
+1 60 520420
+61 1 127008
+1 61 117608
+62 1 84977
+1 62 83241
+63 1 17085
+1 63 18000
+64 1 598721
+1 64 602221
+65 1 186497
+1 65 187127
+66 1 1137407
+1 66 1160983
+67 1 58
+1 67 77
+68 1 26914
+1 68 27305
+69 1 26
+1 69 56
+70 1 504
+1 70 141
+71 1 1327738
+1 71 1342786
