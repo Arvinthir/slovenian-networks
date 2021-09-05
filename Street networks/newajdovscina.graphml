@@ -1,0 +1,242 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d23" for="edge" attr.name="bridge" attr.type="string" />
+  <key id="d22" for="edge" attr.name="junction" attr.type="string" />
+  <key id="d21" for="edge" attr.name="tunnel" attr.type="string" />
+  <key id="d20" for="edge" attr.name="width" attr.type="string" />
+  <key id="d19" for="edge" attr.name="service" attr.type="string" />
+  <key id="d18" for="edge" attr.name="access" attr.type="string" />
+  <key id="d17" for="edge" attr.name="maxspeed" attr.type="string" />
+  <key id="d16" for="edge" attr.name="ref" attr.type="string" />
+  <key id="d15" for="edge" attr.name="geometry" attr.type="string" />
+  <key id="d14" for="edge" attr.name="length" attr.type="string" />
+  <key id="d13" for="edge" attr.name="highway" attr.type="string" />
+  <key id="d12" for="edge" attr.name="name" attr.type="string" />
+  <key id="d11" for="edge" attr.name="lanes" attr.type="string" />
+  <key id="d10" for="edge" attr.name="oneway" attr.type="string" />
+  <key id="d9" for="edge" attr.name="osmid" attr.type="string" />
+  <key id="d8" for="node" attr.name="street_count" attr.type="string" />
+  <key id="d7" for="node" attr.name="highway" attr.type="string" />
+  <key id="d6" for="node" attr.name="ref" attr.type="string" />
+  <key id="d5" for="node" attr.name="x" attr.type="string" />
+  <key id="d4" for="node" attr.name="y" attr.type="string" />
+  <key id="d3" for="graph" attr.name="simplified" attr.type="string" />
+  <key id="d2" for="graph" attr.name="crs" attr.type="string" />
+  <key id="d1" for="graph" attr.name="created_with" attr.type="string" />
+  <key id="d0" for="graph" attr.name="created_date" attr.type="string" />
+  <graph edgedefault="directed">
+    <node id="30760776">
+      <data key="d4">45.8952143</data>
+      <data key="d5">13.7889405</data>
+      <data key="d6">3</data>
+      <data key="d7">motorway_junction</data>
+      <data key="d8">3</data>
+    </node>
+    <node id="92735075">
+      <data key="d4">45.9633712</data>
+      <data key="d5">13.8424632</data>
+      <data key="d8">3</data>
+    </node>
+    <node id="92735081">
+      <data key="d4">45.9625468</data>
+      <data key="d5">13.8432781</data>
+      <data key="d8">3</data>
+    </node>
+    <node id="92735083">
+      <data key="d4">45.962499</data>
+      <data key="d5">13.8434457</data>
+      <data key="d8">3</data>
+    </node>
+    <node id="92735111">
+      <data key="d4">45.9560438</data>
+      <data key="d5">13.8540679</data>
+      <data key="d8">3</data>
+    </node>
+    <node id="92735145">
+      <data key="d4">45.9596021</data>
+      <data key="d5">13.8548956</data>
+      <data key="d8">3</data>
+    </node>
+    <node id="92735180">
+      <data key="d4">45.9458689</data>
+      <data key="d5">13.8726559</data>
+      <data key="d8">3</data>
+    </node>
+    <node id="92735193">
+      <data key="d4">45.9438306</data>
+      <data key="d5">13.8762422</data>
+      <data key="d8">3</data>
+    </node>
+    <node id="92735202">
+      <data key="d4">45.9446057</data>
+      <data key="d5">13.8792909</data>
+      <data key="d8">3</data>
+    </node>
+    <node id="92735209">
+      <data key="d4">45.9433545</data>
+      <data key="d5">13.8808613</data>
+      <data key="d8">3</data>
+    </node>
+    <node id="92735221">
+      <data key="d4">45.9436078</data>
+      <data key="d5">13.8856756</data>
+      <data key="d8">3</data>
+    </node>
+    <node id="92735228">
+      <data key="d4">45.9442583</data>
+      <data key="d5">13.8876158</data>
+      <data key="d8">3</data>
+    </node>
+    <node id="92735242">
+      <data key="d4">45.9422612</data>
+      <data key="d5">13.8907008</data>
+      <data key="d8">3</data>
+    </node>
+    <node id="92735258">
+      <data key="d4">45.941861</data>
+      <data key="d5">13.8921421</data>
+      <data key="d8">3</data>
+    </node>
+    <node id="92735287">
+      <data key="d4">45.9394793</data>
+      <data key="d5">13.898379</data>
+      <data key="d8">3</data>
+    </node>
+    <node id="92735289">
+      <data key="d4">45.9388527</data>
+      <data key="d5">13.8991946</data>
+      <data key="d8">3</data>
+    </node>
+    <node id="92735372">
+      <data key="d4">45.9230709</data>
+      <data key="d5">13.9184133</data>
+      <data key="d8">3</data>
+    </node>
+    <node id="92735389">
+      <data key="d4">45.9191394</data>
+      <data key="d5">13.9237309</data>
+      <data key="d8">3</data>
+    </node>
+    <node id="92746818">
+      <data key="d4">45.9126505</data>
+      <data key="d5">13.9362994</data>
+      <data key="d8">3</data>
+    </node>
+    <node id="92746858">
+      <data key="d4">45.8982957</data>
+      <data key="d5">13.9602902</data>
+      <data key="d8">3</data>
+    </node>
+    <node id="92746872">
+      <data key="d4">45.8981522</data>
+      <data key="d5">13.9674414</data>
+      <data key="d8">3</data>
+    </node>
+    <node id="92746896">
+      <data key="d4">45.8853135</data>
+      <data key="d5">13.9946197</data>
+      <data key="d8">3</data>
+    </node>
+    <node id="92746907">
+      <data key="d4">45.8809364</data>
+      <data key="d5">13.9979272</data>
+      <data key="d8">3</data>
+    </node>
+    <node id="92770800">
+      <data key="d4">45.8801386</data>
+      <data key="d5">14.0021136</data>
+      <data key="d8">3</data>
+    </node>
+    <node id="92770803">
+      <data key="d4">45.879332</data>
+      <data key="d5">14.0042197</data>
+      <data key="d8">3</data>
+    </node>
+    <node id="92770880">
+      <data key="d4">45.8697931</data>
+      <data key="d5">14.0311923</data>
+      <data key="d8">4</data>
+    </node>
+    <node id="92770948">
+      <data key="d4">45.8605675</data>
+      <data key="d5">14.0671279</data>
+      <data key="d8">3</data>
+    </node>
+    <node id="92770970">
+      <data key="d4">45.8589329</data>
+      <data key="d5">14.0776738</data>
+      <data key="d8">3</data>
+    </node>
+    <node id="92771122">
+      <data key="d4">45.8618159</data>
+      <data key="d5">14.0997842</data>
+      <data key="d8">3</data>
+    </node>
+    <node id="92771128">
+      <data key="d4">45.8627423</data>
+      <data key="d5">14.1001748</data>
+      <data key="d8">3</data>
+    </node>
+    <node id="92771163">
+      <data key="d4">45.8635682</data>
+      <data key="d5">14.1109631</data>
+      <data key="d8">4</data>
+    </node>
+    <node id="92771165">
+      <data key="d4">45.8636658</data>
+      <data key="d5">14.1121108</data>
+      <data key="d8">3</data>
+    </node>
+    <node id="264230876">
+      <data key="d4">45.9015628</data>
+      <data key="d5">13.8803952</data>
+      <data key="d8">3</data>
+    </node>
+    <node id="264230883">
+      <data key="d4">45.8875685</data>
+      <data key="d5">13.8974363</data>
+      <data key="d8">4</data>
+    </node>
+    <node id="264230885">
+      <data key="d4">45.8868695</data>
+      <data key="d5">13.8994319</data>
+      <data key="d8">3</data>
+    </node>
+    <node id="264230889">
+      <data key="d4">45.8815012</data>
+      <data key="d5">13.902062</data>
+      <data key="d7">traffic_signals</data>
+      <data key="d8">4</data>
+    </node>
+    <node id="264230890">
+      <data key="d4">45.8868726</data>
+      <data key="d5">13.9098625</data>
+      <data key="d8">3</data>
+    </node>
+    <node id="264383141">
+      <data key="d4">45.8509781</data>
+      <data key="d5">14.0854377</data>
+      <data key="d8">3</data>
+    </node>
+    <node id="264385057">
+      <data key="d4">45.9169411</data>
+      <data key="d5">13.8917332</data>
+      <data key="d8">3</data>
+    </node>
+    <node id="264387176">
+      <data key="d4">45.9309742</data>
+      <data key="d5">13.8843472</data>
+      <data key="d8">1</data>
+    </node>
+    <node id="264387187">
+      <data key="d4">45.933582</data>
+      <data key="d5">13.8772418</data>
+      <data key="d8">3</data>
+    </node>
+    <node id="264387242">
+      <data key="d4">45.9466682</data>
+      <data key="d5">13.8700478</data>
+      <data key="d8">4</data>
+    </node>
+    <node id="273876061">
+      <data key="d4">45.
